@@ -1,11 +1,14 @@
-# SysPet - Sistema Veterinário (Frontend)
+# MedicalBot - Diagnóstico Inteligente (Javascript)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/sergiosdev/petsystem/master/img/logo_login.png" width="105">
 
 ### Olá / Hi / Hallo / Hola / שלום 👋
 
-Este projeto acadêmico teve como intuito o desenvolvimento de Interfaces (Frontend) para um Sistema de Informação Veterinário.
+Este projeto acadêmico teve como intuito acadêmico o desenvolvimento de um sistema que pudesse gerar um índice da probabilidade de uma pessoa estar doente via Sistema de Informação Médico Automatizado. 
+
+## Atenção !!!
+<b>LEMBRAMOS que é um projeto de cunho acadêmico para desenvolvimento de habilidades de Desenvolvimento, no qual NÃO substitui um profissional da Medicina</b>
 
 
 - 🔭 Sistema de Login e Home (Página Principal). 
