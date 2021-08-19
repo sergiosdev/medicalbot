@@ -1,7 +1,7 @@
 # MedicalBot - Diagnóstico Inteligente (Javascript)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sergiosdev/petsystem/master/img/logo_login.png" width="105">
+<img src="https://raw.githubusercontent.com/sergiosdev/medicalbot/master/img/demo/Home.png" width="105">
 
 ### Olá / Hi / Hallo / Hola / שלום 👋
 
@@ -13,7 +13,7 @@ Este projeto acadêmico teve como intuito acadêmico o desenvolvimento de um sis
 
 - 🔭 Sistema de Login e Home (Página Principal). 
 - ⮊  Atenção: Página de Login não possui usuário/senha, pode acessar normalmente sem restrição (a princípio).
-      <p align="center"> <img src="https://raw.githubusercontent.com/sergiosdev/petsystem/master/img/demo/Login.png" width="50%"> </p>
+      <p align="center"> <img src="https://raw.githubusercontent.com/sergiosdev/medicalbot/master/img/demo/Home.png" width="50%"> </p>
 
 - ⮊ Este é o Home (Principal):
      <p align="center"> <img src="https://raw.githubusercontent.com/sergiosdev/petsystem/master/img/demo/Tela_Principal.png" width="70%"></p>
