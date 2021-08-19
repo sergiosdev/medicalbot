@@ -1,7 +1,7 @@
 # MedicalBot - Diagnóstico Inteligente (Javascript)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sergiosdev/medicalbot/master/img/demo/Home.png" width="105">
+<img src="https://raw.githubusercontent.com/sergiosdev/medicalbot/master/img/demo/Home.png" width="40%">
 
 ### Olá / Hi / Hallo / Hola / שלום 👋
 
@@ -9,19 +9,32 @@ Este projeto acadêmico teve como intuito acadêmico o desenvolvimento de um sis
 
 ## Atenção !!!
 <b>LEMBRAMOS que é um projeto de cunho acadêmico para desenvolvimento de habilidades de Desenvolvimento, no qual NÃO substitui um profissional da Medicina</b>
+##
 
+- 🔭 Como Funciona o Sistema?
+<p>⮊  Você deverá responder uma série de Questões no qual será calculado o índice (%) da probabilidade de você estar doente.</p> 
+<p>⮊  Para que você Inicie o teste é necessário o preenchimento de Telefone Celular, Nome e CEP onde reside.</p> 
+<p>⮊  A consulta do CEP é feita dinamicamente via <b>API</b>, utilizando uma REQUEST Json ao site dos Viacep.com.br .</p> 
 
-- 🔭 Sistema de Login e Home (Página Principal). 
-- ⮊  Atenção: Página de Login não possui usuário/senha, pode acessar normalmente sem restrição (a princípio).
-      <p align="center"> <img src="https://raw.githubusercontent.com/sergiosdev/medicalbot/master/img/demo/Home.png" width="50%"> </p>
+<p>⮊  "Naipe" das perguntas a serem respondidas:</p>      
+     <p align="center"> <img src="https://raw.githubusercontent.com/sergiosdev/medicalbot/master/img/demo/Perguntas.png" width="50%"> </p>
+     
+     
+ <p>⮊ Após realização de todas as perguntas o sistema:</p>
+ 
+ - <b>1º</b> Exibirá seu Nome, Telefone e Bairro que você informou (via CEP)
+ 
+ - <b>2º</b> Calculará o índice (%) de chance de vocÊ ESTAR doente.
 
-- ⮊ Este é o Home (Principal):
-     <p align="center"> <img src="https://raw.githubusercontent.com/sergiosdev/petsystem/master/img/demo/Tela_Principal.png" width="70%"></p>
+ - <b>3º</b> Exibirá um Status da Classificação:
+  <p align="center"> De 100% a 70%: <b>GRAVE</b> |  De 69% a 40%: <b>MÉDIO</b> |  De 39% a 20%: <b>LEVE</b> | < 19%: <b>NÃO CONCLUSIVO</b> </p>
 
-- ⮊ Existem 07 seções que estão incluídas no sistema:
-    <p align="center"><img src="https://raw.githubusercontent.com/sergiosdev/petsystem/master/img/demo/Menu.png" width="30%"> </p>   
+ - <b>4º</b> Exibirá a indicação baseada na sua Classificação.
     
-- ⮊ Todas as tabelas estão preenchidas estaticamente, prontas para o Dev Backend.    
+ <p> ⮊ Obs: Para que o sistema indique o teto (100%) suas respostas devem atingir a Pontuação Máxima, que é de 110.</p> 
+ <p> ⮊ Imagem do Laudo Inteligente:</p> 
+   <p align="center"> <img src="https://raw.githubusercontent.com/sergiosdev/medicalbot/master/img/demo/Diagnostico.png" width="50%"></p>   
+ 
 
 - ⭐ <a href='https://stars.github.com/nominate/'> Indique-me para estrelas do Github </a>
 
